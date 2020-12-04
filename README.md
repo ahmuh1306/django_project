@@ -1,0 +1,1 @@
+A project I made with Django following Corey Schafer's Django series. I have made a few modifications of my own but most of the code is taken following his series.
